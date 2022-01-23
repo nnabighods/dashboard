@@ -1,6 +1,8 @@
 #  Node Modules
 /node_modules
 
+# firebase files
+/src/js/firebase/firebaseConfig.js
 
 # Parcel Development Files
 /dist
